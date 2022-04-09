@@ -1,3 +1,3 @@
 # Dicee game Project
-### Here we started to learn the basic about Javascript and used it to creat this dice game.
-### Aqui começamos a aprender o básico sobre Javascript e usamos para criar este jogo de dados.
+### Here we started to learn the basic about Javascript, query selectors, if statements, generating random numbers, and used it to creat the dice game.
+### Aqui começamos a aprender o básico sobre Javascript, query selectors, if statements, geração de números aleatórios, e usamos isso para criar o jogo de dados.
